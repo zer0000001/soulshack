@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	ai "github.com/sashabaranov/go-openai"
+	ai "github.com/zer0000001/go-openai"
 	"github.com/spf13/cobra"
 	vip "github.com/spf13/viper"
 )
