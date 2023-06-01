@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	ai "github.com/sashabaranov/go-openai"
+	ai "github.com/zer0000001/go-openai/"
 	vip "github.com/spf13/viper"
 	"github.com/stretchr/testify/assert"
 )
