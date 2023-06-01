@@ -7,7 +7,7 @@ import (
 	"io"
 	"time"
 
-	ai "github.com/sashabaranov/go-openai"
+	ai "github.com/zer0000001/go-openai"
 )
 
 func ChatCompletionTask(ctx *ChatContext) <-chan *string {
