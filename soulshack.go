@@ -20,7 +20,7 @@ import (
 	vip "github.com/spf13/viper"
 
 	"github.com/lrstanley/girc"
-	ai "github.com/sashabaranov/go-openai"
+	ai "github.com/zer0000001/go-openai/"
 )
 
 func getBanner() string {
